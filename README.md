@@ -1,7 +1,8 @@
 # lab-notebook-new-
 Images and Graphs
-Week 1: <br>
-</br>
+
+Week 1:
+
 ![Block diagram](https://github.com/PriyaDutta9/lab-notebook-new-/blob/main/week1.jpeg?raw=true)
  
 Block diagram sketch showing motor driver system (2-axis), fluid pump, mop pads, and wireless controller link.
