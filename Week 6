@@ -1,0 +1,22 @@
+Date: March 1, 2025
+Objective:
+Analyze final PCB design files to identify potential electrical issues before fabrication. Contribute to for design document submission. Begin research on mounting hardware for 3D printed control enclosure.
+
+Work Log: 
+This week we conducted a detailed review of the finalized PCB files shared by Zhongmin. Although the physical board has not yet arrived, our group met to evaluate 
+the schematic and layout for potential design flaws. During our review of the camera trigger subsystem, we identified a floating pin on the opto-isolators. Without 
+a pull-down resistor to ground, this output would be electrically undefined and likely cause misfires or false triggers. We annotated the schematic and flagged the 
+issue for a future board reprint. Most of my time this week was spent contributing to the Design Document, which was a major course deliverable. Separately, I began
+researching mechanical fasteners for the 3d printed PCB enclosure. I compiled a shortlist of standard M3 brass inserts, 6mm screws, and plastic standoffs that could 
+be used to mount the board within a 3D-printed enclosure while causing as little damage to the board and/or enclosure as possible. Although I haven't yet started 
+CAD modeling, this research gave me a clearer idea of what constraints and hole patterns (threaded/not threaded, cylinder depths, etc). to consider when I do begin 
+that work.
+
+Schematic of camera shutter control unit with the floating pin  
+
+
+Reference Notes:
+1. Zhongmin’s folder of the final schematic of the PCB
+2. McMaster-Carr: Part #95836A109, #92481A123 
+Design Document Submission: March 1, 2025
+
