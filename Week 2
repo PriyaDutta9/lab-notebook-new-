@@ -13,8 +13,11 @@ project: restoring the Spurlock Museum’s PTM Dome. This dome and was worked on
 limitations. I emailed the previous team to ask if they would help us understand the issues with their PCB and Sam emailed Spurlock to gather more technical background 
 and confirm they’d be available for ongoing collaboration. Simultaneously, we also drafted a new web board post. This new system would involve synchronizing 32 LED light 
 sources arranged in a dome with a DSLR camera shutter, capturing surface data of artifacts under varying lighting angles. I began researching how Polynomial Texture
-Mapping technology works, and reviewing design docs and codebases from prior semesters shared via Box
-The KiCAD assignment was also due this week 
+Mapping technology works, and reviewing design docs and codebases from prior semesters shared via Box. The KiCAD assignment was also due this week 
+
+![Block diagram](https://github.com/PriyaDutta9/lab-notebook-new-/blob/main/week2.jpeg?raw=true)
+ 
+Block Diagram PTM dome system: 4 LED Drivers, camera mount, LED controller board, GUI interface.
 
 
 References:
