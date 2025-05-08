@@ -1,4 +1,4 @@
-# lab-notebook-new-
+# All weekly entries were written on my iPad on the weekend after the week and then typed into github on May 7 and May 8
 Images and Graphs
 
 Week 1:
