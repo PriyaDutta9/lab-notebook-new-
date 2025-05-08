@@ -1,5 +1,20 @@
-This week marked our first formal project meeting with the Spurlock Museum team. We met virtually and received a detailed history of the PTM dome and its importance to artifact 
-digitization. I helped take notes during this session and transcribed system-level requirements shared by the museum. I reviewed the previous team’s PCB schematic and reports, 
-trying to understand where their implementation had failed. Based on what I could gather—including notes about crosstalk and inconsistent camera triggering—I began researching 
-more robust microcontroller options like STM32 Blue Pill and Teensy 4.1. Ultimately, though, I concluded that the ATMega32U4 would best fit our needs due to its Arduino 
-compatibility, integrated USB interface, and open-source toolchain, which simplifies integration with existing code.
+
+Date: February 5, 2025
+Objective:
+Meet with Spurlock Museum over Zoom for project onboarding. Review legacy documentation from previous ECE 445 teams. Investigate failures in earlier PCB designs. 
+Begin evaluating suitable microcontroller options for redesigned LED control board. 
+
+Narrative / Work Log:
+We had our first project meeting with the Spurlock Museum staff this week via Zoom. They introduced us to the history of the dome, its original design goals, and 
+shared their expectations: synchronized lighting and camera triggering, reliable and maintainable control hardware, and documentation suitable for long-term 
+museum operation. I took meeting notes and consolidated the staff's list of technical priorities into a google doc. Then, we reviewed the design reports and PCB 
+schematics submitted by the Fall 2024 and Spring 2022 dome teams on Box. Key issues that we identified included poor LED sequencing reliability, inconsistent 
+shutter activation, and signal crosstalk—particularly on the I/O lines adjacent to high-current LED drivers. My team member highlighted suspect areas in the silkscreen 
+and shared screenshots with us. I also began evaluating microcontrollers that could be better than the ones used previously. I considered STM32 Blue Pill (low cost, flexible),
+Teensy 4.1 (performance), and ATmega328P (standard Arduino-compatible). After comparing the microcontrollers, we concluded that ATmega32U4 would be ideal for our application. 
+It has built-in USB functionality, robust Arduino library support, and is used in many commercial controller boards. Its known compatibility with the prior team's GUI also 
+made it the best option.
+
+Reference Notes:
+ATmega32U4 datasheet, Microchip Technology
+Issues Encountered.docx, Team 6, Fall 2024
