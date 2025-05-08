@@ -5,12 +5,12 @@ Assist with rewiring the PTM dome’s LED system. Begin physical assembly of the
 Narrative / Work Log:
 At the beginning of this week, Prof Fliflet informed our group that Zhongmin, a TA, would design the PCB. This was a major change in direction because until now, we 
 had expected to design the board ourselves. This week, I also helped Sam rewire the old LED wiring system using a more structured and serviceable layout designed by
-him. Although the LEDs themselves were the same as before, we replaced the inconsistent and disorganized wiring with a new system built around 16-pin Molex-style 
-connectors and color-coded, labeled heat-shrink tubing. I was responsible for helping strip and crimp the wiring, ans then soldering for all 32 LEDs. We grouped the 
+him. Although the LEDs themselves were the same as before, we partially replaced the inconsistent and disorganized wiring with a new system built around 16-pin Molex-style 
+connectors and color-coded, labeled heat-shrink tubing. I was responsible for helping strip and crimp the wiring, and then soldering for all 32 LEDs. We grouped the 
  LEDs into four banks of eight, corresponding to the driver layout used in the legacy control system. We also tested for electrical continuity across randomly 
 selected LED lines using a multimeter. Sam documented the wiring layout for future reference while malingthe user manual. Separately, I had to take charge of writing
-the majority of our formal project proposal, since the deadline approached quickly and my other team members were focused on hardware.
+the majority of our formal project proposal, since the deadline approached quickly and my other team members were focused on hardware. 
 
-Reference Notes:
+References:
 1. Molex 16-pin connector specs (part no. 39-01-2160)
 2. Heat-shrink label map (LED 01–32: blue/red pair assignment)
