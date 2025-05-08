@@ -13,3 +13,10 @@ Week 2:
 ![Block diagram](https://github.com/PriyaDutta9/lab-notebook-new-/blob/main/week2.png?raw=true)
  
 Block Diagram PTM dome system: 4 LED Drivers, camera mount, LED controller board, GUI interface.
+
+
+Week 5:
+
+![Block diagram](https://github.com/PriyaDutta9/lab-notebook-new-/blob/main/week5.jpeg?raw=true)
+ 
+Pencil sketch showing internal layout of control box
