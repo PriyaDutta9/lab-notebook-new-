@@ -1,5 +1,5 @@
 
-Date: February 5, 2025
+Date: February 9, 2025
 Objective:
 Meet with Spurlock Museum over Zoom for project onboarding. Review legacy documentation from previous ECE 445 teams. Investigate failures in earlier PCB designs. 
 Begin evaluating suitable microcontroller options for redesigned LED control board. 
@@ -16,5 +16,5 @@ It has built-in USB functionality, robust Arduino library support, and is used i
 made it the best option.
 
 Reference Notes:
-ATmega32U4 datasheet, Microchip Technology
-Issues Encountered.docx, Team 6, Fall 2024
+1. ATmega32U4 datasheet, Microchip Technology
+2. Issues Encountered.docx, Team 6, Fall 2024
