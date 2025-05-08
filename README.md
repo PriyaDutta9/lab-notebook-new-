@@ -24,9 +24,15 @@ Week 5:
 Pencil sketch showing internal layout of control box
 
 
-
-Week 5:
+Week 6:
 
 ![Block diagram](https://github.com/PriyaDutta9/lab-notebook-new-/blob/main/week6.png?raw=true)
 
-Schematic of camera shutter control unit with the floating pin  
+Schematic of camera shutter control unit with the floating pin 
+
+
+Week 7:
+
+![Block diagram](https://github.com/PriyaDutta9/lab-notebook-new-/blob/main/week7.png?raw=true)
+
+CAD rendering of the base of the enclosure 
