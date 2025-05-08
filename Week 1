@@ -16,7 +16,8 @@ Then, I made a basic block diagram outlining the motion axes, controller, sensor
 We will discuss those tompics sometime next week after we have a clear idea of what the chassis would look like. Although I will note that my teammates aren't committed to this topic,
 so we might change our project depending on the pitches that we see next week
 
-<img src="https://raw.githubusercontent.com/PriyaDutta9/lab-notebook-new/main/week1.jpeg" width="240" height="180"> 
+![Block diagram](./week1.jpeg)
+
 
 Figure 1:
 Block diagram sketch showing motor driver system (2-axis), fluid pump, mop pads, sensor feedback loop, and wireless controller link.
