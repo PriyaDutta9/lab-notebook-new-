@@ -15,6 +15,6 @@ Teensy 4.1 (performance), and ATmega328P (standard Arduino-compatible). After co
 It has built-in USB functionality, robust Arduino library support, and is used in many commercial controller boards. Its known compatibility with the prior team's GUI also 
 made it the best option.
 
-Reference Notes:
+References:
 1. ATmega32U4 datasheet, Microchip Technology
 2. Issues Encountered.docx, Team 6, Fall 2024
