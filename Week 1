@@ -1,6 +1,25 @@
-This last week I began my ECE 445 lab notebook and started brainstorming ideas. I we liked prof Jennifer Bernhard's proposed of a window-cleaning robot. So, I brainstormed 
-ways to design a robot that could traverse large glass surfaces. We could make it move using a triple-axis stepper system similar to 3D printers. I began researching 
-commercially available stepper motor kits, specifically the NEMA 17 + A4988 driver combo ($24.99), as well as Arduino-compatible ESP32 boards ($13.99) that could control it. 
-I also looked into how we could fit mop pad systems like a Swiffer into the chassis of the robot and looked for fluid dispenser nozzles on Adafruit. While the idea was 
-interesting, we started to feel that the final product might be hard to test and it would be restricted to very specific shapes and sizes of window panes. I still documented 
-it thoroughly and prepared to pivot if needed.
+Date: January 23, 2025 
+Objective:
+Define a feasible initial project idea for ECE 445. Begin technical research and documentation of possible implementation paths. 
+
+Work Log:
+After initial brainstorming, we decided to work on implementing Prof Bernhard's idea of making a semi-automated window-cleaning robot designed to traverse tall window surfaces. 
+We decided to use stepper motors like the ones used in 3D printers and robotic vacuums. I researched 2D and 3D gantry systems and reviewed some affordable hardware components like:
+a. NEMA 17 stepper motors (Amazon – $22.95 for 2-pack)
+b. A4988 motor driver modules (Adafruit – $5.50 each)
+c. ESP32-WROOM MCU board ($12.99 from SparkFun)
+d. Water pump module (DC 6V) for fluid dispensing
+e. Microfiber mop pads from Swiffer
+f. Linear rail kits (250 mm, ~$30)
+
+Then, I made a basic block diagram outlining the motion axes, controller, sensors, and pump. We considered weight, traction, and safety but not stability and cleaning head pressure. 
+We will discuss those tompics sometime next week after we have a clear idea of what the chassis would look like. Although I will note that my teammates aren't committed to this topic,
+so we might change our project depending on the pitches that we see next week
+
+Figure 1:
+Block diagram sketch showing motor driver system (2-axis), fluid pump, mop pads, sensor feedback loop, and wireless controller link.
+
+References:
+1. Adafruit Motor Driver Tutorial: https://learn.adafruit.com/a4988-stepper-driver
+Narwal Freo hardware teardown: https://ifixit.com/Teardown/Narwal+Freo+Teardown/155239
+Datasheet: [NEMA 17 Stepper Motor, 42BYGHW811]
