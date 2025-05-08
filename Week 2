@@ -3,3 +3,20 @@ help us understand the issues with their PCB and Sam emailed Spurlock to gather 
 began drafting a new web post for the dome system and started aligning on goals. I worked on defining subsystems and assigning rough responsibilities across the team. 
 We also completed the RFA assignment this week and I mapped out how the dome, control board, camera, and interface would interact (using USB-C, UART, SPI, and a 3.5mm audio jack). 
 At this point, we are still waiting for formal approval from course staff and Professor Fliflet to "officially" start working on PTM Dome. 
+Date: January 29, 2025
+Objective:
+Pivot to new project. Begin background research and establish communication with Spurlock Museum. Define updated project and begin component planning.
+
+Work Log:
+After a group discussion and in response to several newer project suggestions from course staff, we abandoned the window-cleaning system in favor of a new 
+project: restoring the Spurlock Museum’s PTM Dome. This dome and was worked on over several years by past ECE 445 teams, but remains incomplete due to hardware/software 
+limitations. I emailed the previous team to ask if they would help us understand the issues with their PCB and Sam emailed Spurlock to gather more technical background 
+and confirm they’d be available for ongoing collaboration. Simultaneously, we also drafted a new web board post. This new system would involve synchronizing 32 LED light 
+sources arranged in a dome with a DSLR camera shutter, capturing surface data of artifacts under varying lighting angles. I began researching how Polynomial Texture
+Mapping technology works, and reviewing design docs and codebases from prior semesters shared via Box
+The KiCAD assignment was also due this week 
+
+
+References:
+Emails exchanged with Spurlock staff on Jan 30–31, archived in Outlook thread.
+Previous ECE 445 final reports on PTM Dome (Fall 2024, Spring 2022)
