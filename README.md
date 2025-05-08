@@ -1,4 +1,6 @@
 # All weekly entries were written on my iPad on the weekend after the week and then typed into github on May 7 and May 8
+# Images are also attched to this readme in weekly order because the images are unable to render in some of the .md files
+
 Images and Graphs
 
 Week 1:
@@ -20,3 +22,11 @@ Week 5:
 ![Block diagram](https://github.com/PriyaDutta9/lab-notebook-new-/blob/main/week5.jpeg?raw=true)
  
 Pencil sketch showing internal layout of control box
+
+
+
+Week 5:
+
+![Block diagram](https://github.com/PriyaDutta9/lab-notebook-new-/blob/main/week6.png?raw=true)
+
+Schematic of camera shutter control unit with the floating pin  
