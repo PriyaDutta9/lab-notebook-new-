@@ -1,1 +1,28 @@
+Date: March 8, 2025
+Objective:
+Design and print the first prototype of the control enclosure base for the PTM dome system. Verify mounting hole alignment, PCB fit, and connector placement. Evaluate thermal design and ergonomics.
+
+Work Log:
+This week, I focused on modeling and fabricating the first functional prototype of the enclosure base for our PCB. The goal was to provide a robust housing that 
+would physically protect the board, allow proper airflow, and simplify wiring and maintenance for museum staff. Using Fusion 360, I designed a rectangular base 
+with internal standoff poles to match the PCB’s 4 mounting holes. I spaced the cylindrical standoffs according to our board layout (approx. 95mm × 55mm between 
+centers), each 12 mm tall, and designed them to be used with M3 heat-set brass inserts. The standoffs were printed directly as part of the base, and they 
+successfully aligned with the board on the first try so I didn't need any revisions for that. I added three ventilation slots each to the lid and base to allow
+passive heat dissipation which is especially important when the system is used in long capture sessions.
+
+I also included connector cutouts ports on the sidewall, and circular ports for the power barrel jack and 3.5mm shutter trigger jack on the other side. Each cutout 
+was labeled in the model using text embossing for clarity (e.g., “Connector 1,” “Power,” etc.). The fit of the connector openings was too loose, especially for 
+the Molex connectors, which shifted during insertion. The slots were around 12.5mm wide, and based on this result, I plan to shorten them down to around 11.8mm in 
+the next version to ensure a snug press-fit. After printing the prototype in PLA at 0.2mm layer height with 40% infill, I tested the fit of the PCB in the base. 
+The board sat cleanly on the standoffs and the screw holes aligned well, but we encountered an issue with the enclosure’s orientation when placed on the wooden base 
+of the dome. Without any additional structure beneath it, the box sat flush against the base and protruded awkwardly, both visually and mechanically. There was no 
+clearance for the wire bundles, and the Molex connectors had to bend sharply as they exited the sidewall. This bending risked long-term wear on the connector housing 
+and wires, and it also looked ugly. So, I think the enclosure needs vertical elevation of about 4 inches off the wooden platform to improve cable routing and ergonomics.
+ 
+I shared the prototype with Sam and Nick and documented all necessary design fixes for the user manual. Moving forward, I’ll need to revise the connector cutouts, 
+make a support structure to add height, and eventually redesign the lid to fix a tiny screw alignment issue.
+
+
+
+CAD rendering of the base of the enclosure 
 
