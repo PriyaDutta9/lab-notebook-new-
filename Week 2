@@ -1,0 +1,5 @@
+We officially dropped the window cleaner and decided to pursue the PTM dome restoration project pitched by the Spurlock Museum. I emailed the previous team to ask if they would 
+help us understand the issues with their PCB and Sam emailed Spurlock to gather more technical background and confirm they’d be available for ongoing collaboration. We also 
+began drafting a new web post for the dome system and started aligning on goals. I worked on defining subsystems and assigning rough responsibilities across the team. 
+We also completed the RFA assignment this week and I mapped out how the dome, control board, camera, and interface would interact (using USB-C, UART, SPI, and a 3.5mm audio jack). 
+At this point, we are still waiting for formal approval from course staff and Professor Fliflet to "officially" start working on PTM Dome. 
