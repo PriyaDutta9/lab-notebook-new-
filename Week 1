@@ -1,6 +1,6 @@
-This last week I began my ECE 445 lab notebook and started brainstorming ideas. I we liked prof Jennifer Bernhard's proposed of a window-cleaning robot. So, I brainstormed ways to design
-a robot that could traverse large glass surfaces. We could make it move using a triple-axis stepper system similar to 3D printers. I began researching commercially available 
-stepper motor kits, specifically the NEMA 17 + A4988 driver combo ($24.99), as well as Arduino-compatible ESP32 boards ($13.99) that could control it. 
-I also looked into how we could fit mop pad systems like a Swiffer into the chassis of the robot and looked for fluid dispenser nozzles on Adafruit. 
-While the idea was interesting, we started to feel that the final product might be hard to test and it would be restricted to very specific shapes and sizes of window panes.
-I still documented it thoroughly and prepared to pivot if needed.
+This last week I began my ECE 445 lab notebook and started brainstorming ideas. I we liked prof Jennifer Bernhard's proposed of a window-cleaning robot. So, I brainstormed 
+ways to design a robot that could traverse large glass surfaces. We could make it move using a triple-axis stepper system similar to 3D printers. I began researching 
+commercially available stepper motor kits, specifically the NEMA 17 + A4988 driver combo ($24.99), as well as Arduino-compatible ESP32 boards ($13.99) that could control it. 
+I also looked into how we could fit mop pad systems like a Swiffer into the chassis of the robot and looked for fluid dispenser nozzles on Adafruit. While the idea was 
+interesting, we started to feel that the final product might be hard to test and it would be restricted to very specific shapes and sizes of window panes. I still documented 
+it thoroughly and prepared to pivot if needed.
