@@ -17,11 +17,7 @@ We will discuss those tompics sometime next week after we have a clear idea of w
 so we might change our project depending on the pitches that we see next week
 
 ![Block diagram](https://github.com/PriyaDutta9/lab-notebook-new-/blob/main/week1.jpeg?raw=true)
-
-
-
-Figure 1:
-Block diagram sketch showing motor driver system (2-axis), fluid pump, mop pads, sensor feedback loop, and wireless controller link.
+(i am unable to link images to this .md file for some reason, so all images are linked in the readme. Sorry for the inconvenience)
 
 References:
 1. Adafruit Motor Driver Tutorial: https://learn.adafruit.com/a4988-stepper-driver
