@@ -10,8 +10,10 @@ base using small self-tapping screws. I also marked the positions for mounting h
 screw the PCB in from below without needing any precise fabrication. I also helped Nick modify the existing Python and Arduino code to make it compatible with 
 our microcontroller and LED drivers.
 
+![Block diagram](https://github.com/PriyaDutta9/lab-notebook-new-/blob/main/week5.jpeg?raw=true)
+Pencil sketch showing internal layout of control box
+
+
 References:
 1. Screw type: No. 4 × 3/8” self-tapping sheet metal screws
 
-
-Pencil sketch showing internal layout of control box, including PCB standoff positions, cutout locations for jacks, and wire strain relief loops.
