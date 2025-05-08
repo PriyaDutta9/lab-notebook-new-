@@ -1,4 +1,7 @@
 # lab-notebook-new-
-This is my lab notebook for ECE 445 - Senior Design 
+Images and Graphs
+Week 1:
+![Block diagram](https://github.com/PriyaDutta9/lab-notebook-new-/blob/main/week1.jpeg?raw=true)
+ 
+Block diagram sketch showing motor driver system (2-axis), fluid pump, mop pads, and wireless controller link.
 
-All reports were written on my iPad the Saturday of that week and they were transferred to GitHub on May 7
