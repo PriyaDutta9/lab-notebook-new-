@@ -1,0 +1,5 @@
+This week marked our first formal project meeting with the Spurlock Museum team. We met virtually and received a detailed history of the PTM dome and its importance to artifact 
+digitization. I helped take notes during this session and transcribed system-level requirements shared by the museum. I reviewed the previous team’s PCB schematic and reports, 
+trying to understand where their implementation had failed. Based on what I could gather—including notes about crosstalk and inconsistent camera triggering—I began researching 
+more robust microcontroller options like STM32 Blue Pill and Teensy 4.1. Ultimately, though, I concluded that the ATMega32U4 would best fit our needs due to its Arduino 
+compatibility, integrated USB interface, and open-source toolchain, which simplifies integration with existing code.
