@@ -1,1 +1,21 @@
+Date: March 15, 2025
+Objective:
+Complete the rewiring of the legacy LED dome with Molex connectors, finalize and test a temporary LED demo circuit for the breadboard demo, prototype a support 
+structure for the PCB enclosure to improve clearance and cable routing. 
 
+Work Log: 
+This week we had the breadboard demo, but our PCB was still in fabrication. To make sure we had something functional to show, Nick and I built a demo circuit that 
+used an Arduino ProMicro hich has the same ATMega32U4 chip as our PCB—and a 4-to-1 MUX to drive 8 LEDs in sequence from a single GPIO set. This setup allowed us 
+to validate the LED sequencing logic and camera trigger code before the full 32-LED system went live. During testing, we discovered a few bugs in the Arduino code, 
+especially with edge detection timing, and were able to fix them after probing the output lines using an oscilloscope and multimeter to confirm switching delays 
+and LED states. This helped ensure the logic would scale to our dome hardware later. 
+
+Also this week, we completed the full LED rewiring of the dome using  Molex connectors, which grouped the 32 wires into four labeled and heat-shrunk cable bundles. 
+After assembly, we tested continuity across all four connectors and verified proper routing using a digital multimeter. On the mechanical side, I worked on designing
+a support structure to raise the control enclosure vertically by about 4 inches above the wooden base. This was needed because the initial enclosure left very little
+room for cable clearance and made it hard to access connectors. The frame I built had four vertical legs with countersunk mounting holes to be screwed into the base. 
+However, once mounted, I noticed that although the height was good, the orientation was awkward because the enclosure still faced outward, and the wire entry looked 
+untidy. So, I will have to do something about it this next week.
+
+Figure 8.1: Breadboard test circuit with ATMega32U4-based ProMicro, 4:1 MUX, 8 LEDs
+Figure 8.2: Support structure design elevating enclosure by 4 inches
