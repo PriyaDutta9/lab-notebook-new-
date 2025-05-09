@@ -1,0 +1,11 @@
+Date: April 23, 2025
+Objective: 
+Test replacement lens from Spurlock Museum and resolve any issues with power delivery or imaging.
+
+Work Log:
+This week, we focused on sourcing and testing a replacement lens to replace the cracked 50mm unit discovered last week. After coordinating with the staff at 
+Spurlock Museum, we received a new 100mm lens for the Canon EOS camera.On Friday, we conducted a full system test using the new lens and the updated power jack 
+connection on our PCB. But, the system unexpectedly failed during this session. None of the components responded as expected, and the dome became nonfunctional.
+We began preliminary debugging steps but were unable to isolate the root cause on Friday. At present, we suspect that the issue may be linked to a power regulation 
+failure or a component on the PCB that was somehow damaged. We plan to perform detailed debugging in the next week to identify the point of failure. We're glad that
+the dome crashed AFTER the mock demo though.
