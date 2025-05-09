@@ -1,1 +1,18 @@
+Date: April 12, 2025
+Objective: Finalize full system testing, resolve final hardware issues, and make progress on documentation and demo deliverables.
+
+Work Log:
+This week was focused on debugging minor remaining issues and performing final validation of the entire PTM dome system. During our initial full-system test, 
+we discovered that the opto-isolators used for the camera shutter signal had been soldered in reverse. Sam diagnosed the issue and re-soldered the components 
+in the correct orientation, restoring full camera shutter functionality. Once corrected, the shutter was consistently triggered in sync with each LED during 
+sequencing. With the LED system, enclosure, GUI, and camera all operational, we proceeded with a full 32-image capture cycle. During testing, we identified a 
+small crack in the lens housing was disrupting image clarity and alignment. When the lens was physically held in position during operation, the dome performed 
+correctly, producing 32 usable images. But, otherwise the camera did not take pictures. We notified Spurlock and began coordinating with their staff to obtain 
+a new lens before the demo. Aside from the lens issue, the system performed reliably throughout the entire test session. All LED units remained stable with no 
+flickering or crosstalk, and the software-hardware interaction—including trigger timing was verified. On my end, I began preparing documentation for long-term
+use, including a short instructional video demonstrating how to safely remove and replace a single LED unit in the dome. The video walks through disconnecting 
+the JST connectors, removing the 3D printed retainer, and installing a new bulb unit. I also started working on teh Requirements & Verification Table which is 
+required for the final demo.
+
+
 
