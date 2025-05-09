@@ -1,0 +1,18 @@
+Date: May 29, 2025
+Objective: Begin testing with the first assembled PCB and validate functionality of power and LED driver subsystems
+ 
+Work Log: 
+This week, we received the first print of our PCB from pcbway. Sam completed the surface mount soldering for all core components, including the ATmega32U4 
+microcontroller, switching power supply, opto-isolator, and four LED drivers. Once the board was fully assembled, we began benchtop testing using our regulated 
+12V barrel-jack power supply. Initial testing revealed two critical issues. First, the barrel jack connector on our PSU was slightly undersized compared to 
+the footprint on our PCB. As a temporary workaround, we soldered jumper wires to the inner and outer barrel jack pads to deliver power reliably. This will 
+be resolved with a proper-sized replacement before we send the dome to Spurlock Museum. Second, we moved on to testing LED output. Unfortunately, we discovered 
+that the MR11 landscape LEDs, originally included in the dome build, did not behave correctly when driven by the TLE8108EM ICs. The bulbs exhibited erratic 
+flashing, likely due to interference between the bulb’s internal overcurrent circuitry and the driver's built-in protection features. To isolate the issue, we 
+disassembled a MR11 LED and connected the raw LED wafer directly to the driver output using alligator clips. The LEDs lit up normally, confirming that the LED 
+drivers and control logic were operating correctly and that the bulb internals were causing the problem. So, we decided to order standalone wafer-style LEDs 
+with simple internal circuitry from amazon and build a custom LED unit.
+
+References:
+1. Digikey Electronics, “MR11 Landscape LED Bulb – Product Specification,”  https://www.digikey.com/
+
