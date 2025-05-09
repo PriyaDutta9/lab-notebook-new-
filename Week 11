@@ -11,9 +11,14 @@ ventilation slots and engraved labeling. The supporting structure—shown in Fig
 using a side-mounted bracket approach. This helps with cable routing and prevents strain or accidental disconnection. The base is secured via wood screws 
 through L-brackets in the support frame.
 
+![Block diagram](https://github.com/PriyaDutta9/lab-notebook-new-/blob/main/week11.png?raw=true)
 Figure 11.1: finalized enclosure base with cutouts and heat-set insert mounting holes.
-Figure 11.2: lid design with ventilation slots and engraved labeling. 
-FIgure 11.3: The supporting structure to provide height and stability
+
+![Block diagram](https://github.com/PriyaDutta9/lab-notebook-new-/blob/main/week112.png?raw=true)
+Figure 11.2: lid design with ventilation slots and engraved labeling.  
+
+![Block diagram](https://github.com/PriyaDutta9/lab-notebook-new-/blob/main/week113.png?raw=true)
+FIgure 11.3: The supporting structure to provide height and stability 
 
 Meanwhile, Sam and I also completed the fabrication of the custom LED units. Since the original MR11 bulbs conflicted with our driver ICs due to built-in 
 overcurrent protection, we switched to a simplified “dumb” LED wafers. We depinned the LED wafers using a soldering iron to remove the metal base pins. We then 
@@ -21,8 +26,10 @@ soldered 2-pin male JST connectors directly to the LED wafer leads. Figure 4 sho
 bulb retainers that snugly fit into the existing sockets on the dome, shown in Figure 5. These retainers are designed to hold the LED wafer in place and allow it 
 to sit flush against the dome surface without adhesive. Once inserted, the male connector clips directly into the female connector already wired into the dome.
 By the end of the week, the entire LED replacement process have been documented and successfully integrated into the dome. The board enclosure and support structure 
-are also already fit-tested to ensure alignment and stability. T
+are also already fit-tested to ensure alignment and stability. 
 
-Figure 11.3: CAD of a LED unit.
-Figure 11.4: CAD of a custom-fitted retainer 
+![Block diagram](https://github.com/PriyaDutta9/lab-notebook-new-/blob/main/week114.png?raw=true)
+Figure 11.4: CAD of a LED unit.
 
+![Block diagram](https://github.com/PriyaDutta9/lab-notebook-new-/blob/main/week115.png?raw=true) 
+Figure 11.5: CAD of a custom-fitted retainer 
