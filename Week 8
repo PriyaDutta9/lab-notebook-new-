@@ -17,5 +17,17 @@ room for cable clearance and made it hard to access connectors. The frame I buil
 However, once mounted, I noticed that although the height was good, the orientation was awkward because the enclosure still faced outward, and the wire entry looked 
 untidy. So, I will have to do something about it this next week.
 
-Figure 8.1: Breadboard test circuit with ATMega32U4-based ProMicro, 4:1 MUX, 8 LEDs
-Figure 8.2: Support structure design elevating enclosure by 4 inches
+
+![Block diagram](https://github.com/PriyaDutta9/lab-notebook-new-/blob/main/week8.png?raw=true)
+
+Figure 8.1: Completed dome wiring
+
+
+![Block diagram](https://github.com/PriyaDutta9/lab-notebook-new-/blob/main/week82.png?raw=true)
+
+Figure 8.2: Breadboard test circuit with ATMega32U4-based ProMicro  
+
+
+![Block diagram](https://github.com/PriyaDutta9/lab-notebook-new-/blob/main/week83.png?raw=true)
+
+Figure 8.3: Support structure design elevating enclosure by 4 inches
