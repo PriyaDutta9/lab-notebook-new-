@@ -1,0 +1,28 @@
+Date: April 5, 2025
+Objective: 
+Finalize the control enclosure and supporting mount structure, and fabricate custom LED units for full dome integration.
+
+Work Log:
+This week, I finalized and printed the complete control enclosure design, which now includes a base, a vented lid, and a side-mounted support structure. The 
+enclosure features labeled cutouts for all ports: USB-C, camera shutter, power, and all four LED connector groups. Each label is engraved on the outer surface 
+of the enclosure to ensure easy access and user-friendliness. The lid and base are fastened with standard M3 machine screws through brass heat-set inserts 
+for long-term durability.Figure 1 below shows the finalized enclosure base with cutouts and heat-set insert mounting holes. Figure 2 shows the lid design with 
+ventilation slots and engraved labeling. The supporting structure—shown in Figure 3 was also completed. It lifts the enclosure off the wooden dome base by 4 inches
+using a side-mounted bracket approach. This helps with cable routing and prevents strain or accidental disconnection. The base is secured via wood screws 
+through L-brackets in the support frame.
+
+Figure 11.1: finalized enclosure base with cutouts and heat-set insert mounting holes.
+Figure 11.2: lid design with ventilation slots and engraved labeling. 
+FIgure 11.3: The supporting structure to provide height and stability
+
+Meanwhile, Sam and I also completed the fabrication of the custom LED units. Since the original MR11 bulbs conflicted with our driver ICs due to built-in 
+overcurrent protection, we switched to a simplified “dumb” LED wafers. We depinned the LED wafers using a soldering iron to remove the metal base pins. We then 
+soldered 2-pin male JST connectors directly to the LED wafer leads. Figure 4 shows the resulting LED unit. To complete the integration, we 3D-printed small circular 
+bulb retainers that snugly fit into the existing sockets on the dome, shown in Figure 5. These retainers are designed to hold the LED wafer in place and allow it 
+to sit flush against the dome surface without adhesive. Once inserted, the male connector clips directly into the female connector already wired into the dome.
+By the end of the week, the entire LED replacement process have been documented and successfully integrated into the dome. The board enclosure and support structure 
+are also already fit-tested to ensure alignment and stability. T
+
+Figure 11.3: CAD of a LED unit.
+Figure 11.4: CAD of a custom-fitted retainer 
+
