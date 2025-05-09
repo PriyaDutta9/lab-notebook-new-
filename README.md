@@ -36,3 +36,19 @@ Week 7:
 ![Block diagram](https://github.com/PriyaDutta9/lab-notebook-new-/blob/main/week7.png?raw=true)
 
 CAD rendering of the base of the enclosure 
+
+
+Week 8: 
+
+![Block diagram](https://github.com/PriyaDutta9/lab-notebook-new-/blob/main/week8.png?raw=true)
+
+Completed dome wiring
+
+
+![Block diagram](https://github.com/PriyaDutta9/lab-notebook-new-/blob/main/week82.png?raw=true)
+
+Breadboard test circuit with ATMega32U4-based ProMicro  
+
+![Block diagram](https://github.com/PriyaDutta9/lab-notebook-new-/blob/main/week83.png?raw=true)
+
+Support structure design elevating enclosure by 4 inches
