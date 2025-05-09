@@ -52,3 +52,27 @@ Figure 8.2: Breadboard test circuit with ATMega32U4-based ProMicro
 ![Block diagram](https://github.com/PriyaDutta9/lab-notebook-new-/blob/main/week83.png?raw=true)
 
 Figure 8.3: Support structure design elevating enclosure by 4 inches
+
+
+
+Week 11: 
+
+![Block diagram](https://github.com/PriyaDutta9/lab-notebook-new-/blob/main/week11.png?raw=true)
+
+Figure 11.1: finalized enclosure base with cutouts and heat-set insert mounting holes.
+
+![Block diagram](https://github.com/PriyaDutta9/lab-notebook-new-/blob/main/week112.png?raw=true)
+
+Figure 11.2: lid design with ventilation slots and engraved labeling.  
+
+![Block diagram](https://github.com/PriyaDutta9/lab-notebook-new-/blob/main/week113.png?raw=true)
+
+FIgure 11.3: The supporting structure to provide height and stability 
+
+![Block diagram](https://github.com/PriyaDutta9/lab-notebook-new-/blob/main/week114.png?raw=true)
+
+Figure 11.4: CAD of a LED unit.
+
+![Block diagram](https://github.com/PriyaDutta9/lab-notebook-new-/blob/main/week115.png?raw=true)
+
+Figure 11.5: CAD of a custom-fitted retainer 
