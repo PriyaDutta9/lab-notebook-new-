@@ -1,0 +1,10 @@
+Date: April 27, 2025
+Objective: 
+Restore board functionality and complete demo deliverables.
+
+Work Log:
+We identified a partial short on the 5V rail using a thermal camera, which showed highheat around LED Driver 2. Sam replaced the ATMega32U4 and all four LED drivers. 
+After reassembly, the board passed all tests and is fully functional for demo.
+I completed the Requirements & Verification table, block diagrams, and high-level requirements documents for the demo. The control enclosure was reprinted and 
+successfully mounted to the dome ising wood screws and L-brackets to prevent drilling into plastic. We also completed the repair manual and began drafting the 
+user manual. We are now ready for the final demo.
