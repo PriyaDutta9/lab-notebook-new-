@@ -42,13 +42,13 @@ Week 8:
 
 ![Block diagram](https://github.com/PriyaDutta9/lab-notebook-new-/blob/main/week8.png?raw=true)
 
-Completed dome wiring
+Figure 8.1: Completed dome wiring
 
 
 ![Block diagram](https://github.com/PriyaDutta9/lab-notebook-new-/blob/main/week82.png?raw=true)
 
-Breadboard test circuit with ATMega32U4-based ProMicro  
+Figure 8.2: Breadboard test circuit with ATMega32U4-based ProMicro  
 
 ![Block diagram](https://github.com/PriyaDutta9/lab-notebook-new-/blob/main/week83.png?raw=true)
 
-Support structure design elevating enclosure by 4 inches
+Figure 8.3: Support structure design elevating enclosure by 4 inches
